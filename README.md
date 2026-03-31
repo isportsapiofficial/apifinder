@@ -369,6 +369,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 | API | Description | Auth | CORS | Type | Docs |
 |-----|-------------|------|------|------|------|
+| [EnrichAnything](https://www.enrichanything.com) | Published market scans and report summaries as structured JSON | No | Yes | Free | [Docs](https://www.enrichanything.com/api/) |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding | `apiKey` | Yes | Freemium | [Docs](https://opencagedata.com/api) |
 | [REST Countries](https://restcountries.com) | Information about countries | No | Yes | Free | [Docs](https://restcountries.com/) |
 | [Wikipedia](https://www.wikipedia.org) | Wikipedia content and search | No | Yes | Free | [Docs](https://www.mediawiki.org/wiki/API:Main_page) |
