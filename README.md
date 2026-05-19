@@ -54,6 +54,7 @@ A curated, open-source collection of public APIs organized by category. Discover
   - [URL Shorteners](#url-shorteners)
   - [Video](#video)
   - [Weather](#weather)
+  - [Website Builders](#website-builders)
 
 ## Categories
 
@@ -103,6 +104,7 @@ A curated, open-source collection of public APIs organized by category. Discover
 | [URL Shorteners](#url-shorteners) | Link shortening services |
 | [Video](#video) | Video hosting and streaming |
 | [Weather](#weather) | Weather forecasts and climate data |
+| [Website Builders](#website-builders) | Website Builders and CMS |
 
 ## How to Contribute
 
@@ -505,6 +507,13 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 | [Visual Crossing](https://www.visualcrossing.com) | Historical and forecast weather | `apiKey` | Yes | Freemium | [Docs](https://www.visualcrossing.com/resources/documentation/) |
 | [WeatherAPI](https://www.weatherapi.com) | Weather, astronomy, and time zone | `apiKey` | Yes | Freemium | [Docs](https://www.weatherapi.com/docs/) |
 | [Weatherbit](https://www.weatherbit.io) | Weather forecasts and historical data | `apiKey` | Yes | Freemium | [Docs](https://www.weatherbit.io/api) |
+
+### Website Builders
+
+| API | Description | Auth | CORS | Type | Docs |
+|-----|-------------|------|------|------|------|
+| [Directify](https://directify.app) | Directory Website Builder | `apiKey` | No | Paid | [Docs](https://docs.directify.app/api-integration) |
+
 
 ---
 
